@@ -11,7 +11,7 @@ To clone or edit an unseen voice, VoiceCraft needs only a few seconds of referen
 :star: 03/28/2024: Model weights are up on HuggingFace🤗 [here](https://huggingface.co/pyp1/VoiceCraft/tree/main)!
 
 ## TODO
-- [x] Codebase upload
+- [x] Codebase upload(what is code base?)
 - [x] Environment setup
 - [x] Inference demo for speech editing and TTS
 - [x] Training guidance
