@@ -12,7 +12,7 @@ To clone or edit an unseen voice, VoiceCraft needs only a few seconds of referen
 
 ## TODO
 - [x] Codebase upload
-- [x] Environment setup
+- [x] Environment setup(?)
 - [x] Inference demo for speech editing and TTS
 - [x] Training guidance
 - [x] RealEdit dataset and training manifest
